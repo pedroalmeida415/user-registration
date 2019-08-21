@@ -12,3 +12,7 @@ Skills learned/practiced during this project:
 - Working with multiple function components and wrapping everything up on a main Class-based component
 
 ## Screenshots:
+
+![Home_page](https://github.com/pedroalmeida415/user-registration/blob/master/screenshots/Screenshot_18.png)
+
+![Users_tab](https://github.com/pedroalmeida415/user-registration/blob/master/screenshots/Screenshot_19.png)

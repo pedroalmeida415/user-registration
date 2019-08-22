@@ -1,5 +1,5 @@
 # user-registration
-### My first user registration project using React Router
+### An user registration web app using React Router
 
 Skills learned/practiced during this project:
 - How to use React Router to dynamically switch among URLs as well as redirect the user
